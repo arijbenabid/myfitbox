@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.logo{
+
+   height: 30px;
+    
+}
+.search{
+    background-color: #F0F2F5;
+    color: #707070;
+}
+.fa-search .a{
+    color:#D6C900;
+}
+.searchbox{
+    
+    align-items: center;
+
+}
+.search-icon{
+    position: absolute;
+    right: 20px;
+}
+.searchbox form {
+    align-items: center;
+    position: relative;
+}
+.fa-shopping-cart{
+    color:#D6C900;
+}
+.fa-user-circle{
+    color:#D6C900; 
+}
+.navbar-nav a{
+    color: black;
+    font-size: 15px;
+    
+}
+.navbar-nav a:hover{
+    color:#D6C900;
+    
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:700;
+    font-size: 30px;
+}
+.active{
+    color:#D6C900;
+    border: 2px solid #D6C900;
+    font-weight: 700;
+    
+}
+.active:hover{
+    background-color:#D6C900;
+    color: white;
+    font-weight: 700;
+    
+}
+.objectifs{
+    color: #7E7E7E;
+    border: 2px solid #7E7E7E;
+    
+}
+.objectifs:hover{
+    background-color: #7E7E7E;
+    color: white;
+    
+}
+.categorybox .titre1 {
+    margin-bottom: -10px;
+    color: #D6C900;
+    font-weight: 700;
+}
+.categorybox hr {
+    border: solid 1px #343434;
+    width: 50px;
+}
+.categorybox {
+    position: absolute;
+    background-color: white;
+    top: 18%;
+    box-shadow: 2px 2px 7px black;
+}
+.category{
+    position: relative;
+}
+.categoryimg {
+    z-index: -1;
+}
+.info{
+    display: inline-grid;
+}
+.infotext{
+    color: #343434;
+    font-weight:500;
+    font-size: 13px;
+}
+.nbrcalorie{
+    color: #343434;
+    font-weight:700;
+    font-size: 12px;
+}
+.nomplat{
+    color: #343434;
+    font-weight:700;
+    font-size: 25px;
+}
+.commanderbtn{
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: #D6C900;
+    width:50%;
+}
+.commander{
+    font-weight:700;
+}
+.carticon{
+    margin-top: 5px;
+}
+.commanderbtn .fa-shopping-cart{
+    color: black;
+}
+.line{
+    color: #343434;
+    font-weight: 500;
+}
+footer{
+    background-color:#C6C6C6;
+    width: 100%;    
+}
+.footertext{
+    font-size:14px;
+    font-weight: 500;
+    
+}
+
+.liste1 a{
+    color: black;
+}
+.footer h2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.rights{
+    font-size: 10px;
+}
